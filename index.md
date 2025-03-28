@@ -2,9 +2,9 @@
 
 Développeur & Formateur - Passionné par la technologie et l'enseignement
 
-## Formateur
+## Formateur 🎓👨‍🏫
 
-En tant que formateur d'apprentis, mon objectif est de transmettre non seulement le savoir, mais aussi le plaisir d'apprendre. Mon approche repose sur l'engagement, la curiosité et la créativité, afin que chaque élève puisse développer ses compétences et se sentir épanoui dans son parcours.
+En tant que formateur d'apprentis, mon objectif est de transmettre non seulement le savoir 📚, mais aussi le plaisir d'apprendre 🎉. Mon approche repose sur l'engagement 💪, la curiosité 🔍 et la créativité 🎨, afin que chaque élève puisse développer ses compétences 🧠 et se sentir épanoui dans son parcours 🌱.
 
 ## Dev:
 
