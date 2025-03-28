@@ -6,7 +6,7 @@ Développeur & Formateur - Passionné par la technologie et l'enseignement
 
 En tant que formateur d'apprentis, mon objectif est de transmettre non seulement le savoir 📚, mais aussi le plaisir d'apprendre 🎉. Mon approche repose sur l'engagement 💪, la curiosité 🔍 et la créativité 🎨, afin que chaque élève puisse développer ses compétences 🧠 et se sentir épanoui dans son parcours 🌱.
 
-## Dev:
+## 🚀 Développeur en Action 💡
 
 1️⃣ **Durant mon École Supérieure au CPNV**, j'ai obtenu le prix du meilleur travail de diplôme de mon année ! 🏆 Mon projet portait sur l'exploration de la technologie blockchain dans le domaine de l'enregistrement des produits achetés. 🚀
 
